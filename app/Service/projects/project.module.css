@@ -1,0 +1,12 @@
+/* body{
+    background-color: whitesmoke;
+} */
+
+.pro{
+    align-items: center;
+    text-align: center;
+    margin-top: 20%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    background-color: aquamarine;
+}
